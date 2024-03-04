@@ -1,5 +1,9 @@
 # React + Vite
-1. Install dependencies
-npm install
-2. Run development environment
-npm run dev
+1. cd root directory and install dependencies
+
+    cd /family-tree
+   
+    npm install
+3. Run development environment
+
+    npm run dev
